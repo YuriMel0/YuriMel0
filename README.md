@@ -1,6 +1,6 @@
 ## Helo! I'm Yuri Melo
 
- - aspiring back end development 💻
+ - aspiring data scientist 💻
  - in love with music 🎧
  - passionate about learning 📚
  
