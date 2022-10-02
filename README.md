@@ -1,6 +1,5 @@
 ## Helo! I'm Yuri Melo
 
- - aspiring data scientist 💻
  - in love with music 🎧
  - passionate about learning 📚
  
