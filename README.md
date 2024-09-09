@@ -22,7 +22,7 @@ Sou um entusiasta da **engenharia de dados** e da **tecnologia**. Tenho experiê
 - Banco de dados em SQLite3
 
 ### Projeto 2: [Data Warehouse para Análise de Commodities](https://github.com/YuriMel0/dw-analise-commodities)
-- Etração de dados via API
+- Extração de dados via API
 - Transformação de dados com DBT core
 - Carga de dados em um banco PostgreSQL
 - Visualização de dados com StreamLit
