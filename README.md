@@ -14,19 +14,6 @@ Sou um entusiasta da **engenharia de dados** e da **tecnologia**. Tenho experiê
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMel0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 📈 Projetos
-
-### Projeto 1: [Dashboard de Tênis de Corrida](https://github.com/YuriMel0/scraping2ETL)
-- Coleta e tratamento de dados com Python e Scrapy
-- Visualização interativa usando Streamlit
-- Banco de dados em SQLite3
-
-### Projeto 2: [Data Warehouse para Análise de Commodities](https://github.com/YuriMel0/dw-analise-commodities)
-- Extração de dados via API
-- Transformação de dados com DBT core
-- Carga de dados em um banco PostgreSQL
-- Visualização de dados com StreamLit
-
 ## 🧠 O que estou aprendendo atualmente:
 - **Machine Learning** e algoritmos de recomendação
 - **Ferramentas para pipeline de dados** e ETL / ELT
